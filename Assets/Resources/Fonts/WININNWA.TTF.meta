@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1227586a9a40b4a4380b63451c15b06f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WinInnwa
+  fontNames:
+  - WinInnwa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 18b45bb69d5879f4aa8db540b4779812, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
